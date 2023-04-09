@@ -3,8 +3,11 @@
 Esta es una aplicación web construida con React que muestra los precios de las criptomonedas a través de una API publica. Además, cuenta con un buscador para buscar información sobre una criptomoneda específica.
 
 La aplicación está disponible en el branch main de este repositorio.
-## Ver la aplicación en línea
 
+## Capturas de pantalla
+![image](https://user-images.githubusercontent.com/70293887/230802038-f15d6e8f-a3c3-4817-a8e1-dd93a4edd59c.png)
+
+## Ver la aplicación en línea
 Puedes acceder a ella en el siguiente enlace: https://cryptoboard-ivan.netlify.app
 
 ## Cómo correr la aplicación
