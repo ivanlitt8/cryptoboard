@@ -1,5 +1,5 @@
-import React from 'react'
-import Row from './Row.js'
+import React from 'react';
+import Row from './Row.js';
 
 const titles = ['#', 'Coin', 'Price', 'Price Change', 'Volume']
 
